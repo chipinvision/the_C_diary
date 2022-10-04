@@ -1,7 +1,7 @@
 # the_C_diary
 Collection of all C programs wriiten throughout my college days
 
-##TABLE OF CONTENT
+## TABLE OF CONTENT
 - [Sum of two numbers](https://github.com/chipinvision/the_C_diary/blob/main/two_num_sum.c)
 - [Next Number](https://github.com/chipinvision/the_C_diary/blob/main/next_num.c)
 - [Minute to Seconds Conversion](https://github.com/chipinvision/the_C_diary/blob/main/min_to_sec.c)
