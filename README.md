@@ -16,3 +16,4 @@ Collection of all C programs wriiten throughout my college days
 - [Check Alphabet or not](https://github.com/chipinvision/the_C_diary/blob/main/alpha.c)
 - [Print Natural Numbers in Reverse order](https://github.com/chipinvision/the_C_diary/blob/main/rev_num.c)
 - [Print all Alphabets Serial Wise](https://github.com/chipinvision/the_C_diary/blob/main/alphabets.c)
+- [Simple Calculator using C](https://github.com/chipinvision/the_C_diary/blob/main/simple_calculator.c)
