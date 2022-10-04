@@ -1,2 +1,18 @@
 # the_C_diary
 Collection of all C programs wriiten throughout my college days
+
+##TABLE OF CONTENT
+- [Sum of two numbers](https://github.com/chipinvision/the_C_diary/blob/main/two_num_sum.c)
+- [Next Number](https://github.com/chipinvision/the_C_diary/blob/main/next_num.c)
+- [Minute to Seconds Conversion](https://github.com/chipinvision/the_C_diary/blob/main/min_to_sec.c)
+- [Hour to Seconds](https://github.com/chipinvision/the_C_diary/blob/main/hour_to_sec.c)
+- [Check Even or Odd](https://github.com/chipinvision/the_C_diary/blob/main/even_odd.c)
+- [Area of Triangle](https://github.com/chipinvision/the_C_diary/blob/main/area_triangle.c)
+- [Check Positive or Negetive](https://github.com/chipinvision/the_C_diary/blob/main/negetive_positive.c)
+- [Swapping two numbers](https://github.com/chipinvision/the_C_diary/blob/main/swap_numbers.c)
+- [Check Leap Year or Not](https://github.com/chipinvision/the_C_diary/blob/main/leap_year.c)
+- [Table Generator](https://github.com/chipinvision/the_C_diary/blob/main/table_gen.c)
+- [Check vowel or consonant](https://github.com/chipinvision/the_C_diary/blob/main/voc.c)
+- [Check Alphabet or not](https://github.com/chipinvision/the_C_diary/blob/main/alpha.c)
+- [Print Natural Numbers in Reverse order](https://github.com/chipinvision/the_C_diary/blob/main/rev_num.c)
+- [Print all Alphabets Serial Wise](https://github.com/chipinvision/the_C_diary/blob/main/alphabets.c)
