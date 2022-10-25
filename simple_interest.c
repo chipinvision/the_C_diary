@@ -14,5 +14,6 @@ int main(){
     si = (p*t*r)/100;
     printf("Interest: %.2lf", si);
 
+    
     return 0;
 }
