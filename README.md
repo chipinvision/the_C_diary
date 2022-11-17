@@ -27,3 +27,6 @@ Collection of all C programs wriiten throughout my college days
 - [Five Star Pattern](https://github.com/chipinvision/the_C_diary/blob/main/five_star.c)
 - [Number Pyramid Pattern](https://github.com/chipinvision/the_C_diary/blob/main/num_pyramid.c)
 - [Pyramid Pattern](https://github.com/chipinvision/the_C_diary/blob/main/pyramid.c)
+- [GCD of two numbers](https://github.com/chipinvision/the_C_diary/blob/main/gcd.c)
+- [Greatest among two numbers using if..else](https://github.com/chipinvision/the_C_diary/blob/main/greatest.c) 
+- [Greatest among two numbers using ternary operator](https://github.com/chipinvision/the_C_diary/blob/main/grt.c)
