@@ -30,3 +30,5 @@ Collection of all C programs wriiten throughout my college days
 - [GCD of two numbers](https://github.com/chipinvision/the_C_diary/blob/main/gcd.c)
 - [Greatest among two numbers using if..else](https://github.com/chipinvision/the_C_diary/blob/main/greatest.c) 
 - [Greatest among two numbers using ternary operator](https://github.com/chipinvision/the_C_diary/blob/main/grt.c)
+- [Area of Square](https://github.com/chipinvision/the_C_diary/blob/main/area_square.c)
+- [Area of Rectangle](https://github.com/chipinvision/the_C_diary/blob/main/area_rectangle.c)
