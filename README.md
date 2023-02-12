@@ -68,3 +68,16 @@ All the C programs written by me throughout my college days
     - [Concatenating Strings using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_concat.c)
     - [Comparinging Strings using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_cmpr.c)
 8. Miscellenous
+    - [Armstrong Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/armstrong.c)
+    - [Factorial of a Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/factorial.c)
+    - [Factors of a Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/factors.c)
+    - [Fibonnaci Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/fibonacci.c)
+    - [Celsius to Farheneit](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/celsius_to_fahrenheit.c)
+    - [Farheneit to Celsius](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/fahrenheit_to_celsius.c)
+    - [GCD](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/gcd.c)
+    - [LCM](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/lcm.c)
+    - [Multiples of a Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/multiples.c)
+    - [Prime Number](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/prime.c)
+    - [Simple Interest](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/simple_interest.c)
+    - [Simple Calculator](https://github.com/chipinvision/the_C_diary/blob/main/miscellenous/simple_calculator.c)
+  
