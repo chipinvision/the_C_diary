@@ -51,5 +51,20 @@ All the C programs written by me throughout my college days
     - [Reverse Half Triangle Number Pattern](https://github.com/chipinvision/the_C_diary/blob/main/patterns/reverse_half_triangle_num_pattern.c)
     - [Reverse Half Triangle Repeat Number Pattern](https://github.com/chipinvision/the_C_diary/blob/main/pattern/reverse_half_triangle_repeat_num_pattern.c)
 6. Arrays
+    - [Simple Vector Traversing](https://github.com/chipinvision/the_C_diary/blob/main/arrays/arrays.c)
+    - [Sum of all Vector Elements](https://github.com/chipinvision/the_C_diary/blob/main/arrays/array_sum.c)
+    - [Average of all Vector Elements](https://github.com/chipinvision/the_C_diary/blob/main/arrays/array_sum.c)
+    - [Reverse all Vector Elements](https://github.com/chipinvision/the_C_diary/blob/main/arrays/rev_array.c)
+    - [Separate Minumum and Maximum Elements from an Vector](https://github.com/chipinvision/the_C_diary/blob/main/arrays/min_max_array.c)
+    - [Separate Odd and Even Elements from an Vector](https://github.com/chipinvision/the_C_diary/blob/main/arrays/odd_even_array.c)
+    - [Transfer Elements from one Vector to another](https://github.com/chipinvision/the_C_diary/blob/main/arrays/transfer_array.c)
+    - [Simple Matrix Traversing](https://github.com/chipinvision/the_C_diary/blob/main/arrays/two_d_array.c)
+    - [Sum of all Matrix Elements](https://github.com/chipinvision/the_C_diary/blob/main/arrays/two_d_array_sum.c)
+    - [Product of all Matrix Elements](https://github.com/chipinvision/the_C_diary/blob/main/arrays/two_d_array_product.c)
 7. String
+    - [Simple String Traversing](https://github.com/chipinvision/the_C_diary/blob/main/strings/strings.c)
+    - [Length of a String using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_len.c)
+    - [Copying String using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_copy.c)
+    - [Concatenating Strings using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_concat.c)
+    - [Comparinging Strings using String Library Function](https://github.com/chipinvision/the_C_diary/blob/main/strings/string_cmpr.c)
 8. Miscellenous
